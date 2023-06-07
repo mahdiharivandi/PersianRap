@@ -1,0 +1,32 @@
+
+.img-flex{
+    width: 100%;
+    height: 200px;
+    border: 5px double blue;
+}
+.a-flex{
+    font-size: 26pt;
+    text-decoration: none;
+    color: black;
+}
+.center-flex{
+     border: 5px double red;
+    padding: 5px;
+    background-color: rgb(227, 93, 240);
+}
+/*a{sodo-class}*/
+.a-flex:visited {
+    color: blue;
+}
+
+.a-flex:hover {
+    color: red;
+    text-decoration: none;
+}
+
+.a-flex:active {
+    color: chartreuse;
+}
+.center-flex:hover{
+    background-color: black;
+}
